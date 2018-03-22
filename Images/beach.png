@@ -1,0 +1,1124 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head prefix="og: http://ogp.me/ns#">
+		<meta charset="utf-8">
+<title>Chaweng Beach - City and Neighborhood Guide - TRVL</title>
+
+<link rel="canonical" href="https://trvl.com/koh-samui/chaweng-beach">
+
+
+<meta name="author" content="TRVL">
+<meta name="keywords" content="">
+<meta name="description" content="Hello Chaweng Beach! Check out TRVL&#039;s city and neighborhood guide to Chaweng Beach, featuring a handpicked selection of the city&#039;s best hotels.">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta property="og:image" content="https://api.services.trvl.com/backgrounds/images/chaweng-beach_1.jpg">
+<meta property="og:image:width" content="1920">
+<meta property="og:image:height" content="1280">
+
+<meta property="og:title" content="TRVL - Power to the traveler!">
+<meta property="og:description" content="Hello Chaweng Beach! Check out TRVL&#039;s city and neighborhood guide to Chaweng Beach, featuring a handpicked selection of the city&#039;s best hotels.">
+<meta property="og:url" content="https://trvl.com/koh-samui/chaweng-beach">
+<meta property="og:site_name" content="@trvl">
+<meta property="og:type" content="website">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@trvl">
+<meta name="twitter:creator" content="@trvl">
+<meta name="twitter:title" content="TRVL - Power to the traveler!">
+<meta name="twitter:description" content="Hello Chaweng Beach! Check out TRVL&#039;s city and neighborhood guide to Chaweng Beach, featuring a handpicked selection of the city&#039;s best hotels.">
+<meta name="twitter:image" content="https://api.services.trvl.com/backgrounds/images/chaweng-beach_1.jpg"><!-- size width at least 280, max 1mb -->
+
+<meta data-global-meta name="baseUrl" content="trvl.com">
+<meta data-global-meta name="hash" content="">
+
+<link rel="icon" type="image/png" href="https://trvl.com/assets/img/icons/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="https://trvl.com/assets/img/icons/favicon-32x32.png" sizes="32x32">
+
+<link rel="apple-touch-icon" sizes="180x180" href="https://trvl.com/assets/img/icons/apple-touch-icon.png">
+<link rel="mask-icon" href="https://trvl.com/assets/img/icons/safari-pinned-tab.svg" color="#ffffff">
+
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="https://trvl.com/assets/img/icons/mstile-150x150.png">
+
+<meta name="theme-color" content="#ffffff">
+<meta name="msapplication-navbutton-color" content="#ffffff">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+<link rel="stylesheet" href="/dist/css/main.css?id=91d1997f565200ae2a2d">
+<link rel="stylesheet" href="/dist/css/app.css?id=11cbaed657be16d4b274">
+
+<meta name="csrf-token" content="AcHICRM0aUFzsuGFVR8k4CKK1dejpWsmzjE4upMw">
+
+<script type="text/javascript">
+    var Ziggy = {
+        namedRoutes: {"debugbar.openhandler":{"uri":"_debugbar\/open","methods":["GET","HEAD"],"domain":null},"debugbar.clockwork":{"uri":"_debugbar\/clockwork\/{id}","methods":["GET","HEAD"],"domain":null},"debugbar.assets.css":{"uri":"_debugbar\/assets\/stylesheets","methods":["GET","HEAD"],"domain":null},"debugbar.assets.js":{"uri":"_debugbar\/assets\/javascript","methods":["GET","HEAD"],"domain":null},"debugbar.cache.delete":{"uri":"_debugbar\/cache\/{key}\/{tags?}","methods":["DELETE"],"domain":null},"ar.hotels":{"uri":"api\/ar\/hotels","methods":["GET","HEAD"],"domain":null},"images.show":{"uri":"responsive-images\/{path}","methods":["GET","HEAD"],"domain":null},"assets.lang":{"uri":"js-lang","methods":["GET","HEAD"],"domain":null},"featured-agents":{"uri":"featured-agents","methods":["GET","HEAD"],"domain":null},"messenger_bot.callback":{"uri":"webhooks\/facebook","methods":["GET","HEAD"],"domain":null},"messenger_bot.callback_post":{"uri":"webhooks\/facebook","methods":["POST"],"domain":null},"hotel.note":{"uri":"hotel\/{slug}\/note","methods":["PUT"],"domain":null},"dashboard.index":{"uri":"dashboard","methods":["GET","HEAD"],"domain":null},"dashboard.bookings":{"uri":"dashboard\/bookings","methods":["GET","HEAD"],"domain":null},"dashboard.favorites":{"uri":"dashboard\/favorites","methods":["GET","HEAD"],"domain":null},"dashboard.searches":{"uri":"dashboard\/searches","methods":["GET","HEAD"],"domain":null},"profile.resend_mail_verification":{"uri":"account\/verifications\/resend_mail","methods":["GET","HEAD"],"domain":null},"profile.edit":{"uri":"account\/edit","methods":["GET","HEAD"],"domain":null},"profile.update":{"uri":"profile","methods":["PUT"],"domain":null},"profile.change_password":{"uri":"account\/change_password","methods":["POST"],"domain":null},"account.social.connect":{"uri":"account\/connect\/{provider}","methods":["GET","HEAD"],"domain":null},"account.social.disconnect":{"uri":"account\/disconnect\/{provider}","methods":["GET","HEAD"],"domain":null},"subscriptions.show":{"uri":"account\/subscription","methods":["GET","HEAD"],"domain":null},"subscriptions.subscribe_trial":{"uri":"account\/subscriptions\/trial","methods":["POST"],"domain":null},"subscriptions.subscribe_cc":{"uri":"account\/subscriptions\/cc","methods":["POST"],"domain":null},"subscriptions.subscribe_coupon":{"uri":"account\/subscriptions\/coupon","methods":["POST"],"domain":null},"subscriptions.transactions":{"uri":"account\/subscriptions\/transactions","methods":["GET","HEAD"],"domain":null},"subdomain.edit":{"uri":"subdomain\/edit","methods":["GET","HEAD"],"domain":null},"subdomain.update":{"uri":"subdomain","methods":["PUT"],"domain":null},"profile.request.destination":{"uri":"profile\/request-destination","methods":["POST"],"domain":null},"logout":{"uri":"logout","methods":["POST"],"domain":null},"profile.verify_mobile":{"uri":"account\/mobile\/start_verify","methods":["POST"],"domain":null},"profile.check_mobile":{"uri":"account\/mobile\/check_verify","methods":["POST"],"domain":null},"favorites.update":{"uri":"{type}\/{id}\/favorite","methods":["PATCH"],"domain":null},"agents.index":{"uri":"directory","methods":["GET","HEAD"],"domain":null},"agents.show":{"uri":"directory\/{slug}\/{destinationString?}","methods":["GET","HEAD"],"domain":null},"location.check":{"uri":"location\/check","methods":["POST"],"domain":null},"dashboard.stats":{"uri":"dashboard\/stats","methods":["GET","HEAD"],"domain":null},"dashboard.shared":{"uri":"dashboard\/shared","methods":["GET","HEAD"],"domain":null},"trips.store":{"uri":"{type}\/{id}\/share","methods":["POST"],"domain":null},"trips.update":{"uri":"{type}\/{id}\/share\/{hash}","methods":["POST"],"domain":null},"trips.email":{"uri":"email\/{type}\/{id}\/share","methods":["POST"],"domain":null},"trips.destroy":{"uri":"trip\/{type}\/{id}\/{hash}","methods":["DELETE"],"domain":null},"payment-quotes.store":{"uri":"payment-quotes","methods":["POST"],"domain":null},"payment-requirements.show":{"uri":"payment-requirements\/{payment_requirement}","methods":["GET","HEAD"],"domain":null},"payment-requirements.update":{"uri":"payment-requirements\/{payment_requirement}","methods":["PUT","PATCH"],"domain":null},"payment-recipients.index":{"uri":"payment-recipients","methods":["GET","HEAD"],"domain":null},"payment-recipients.store":{"uri":"payment-recipients","methods":["POST"],"domain":null},"payment-recipients.show":{"uri":"payment-recipients\/{payment_recipient}","methods":["GET","HEAD"],"domain":null},"payment-recipients.update":{"uri":"payment-recipients\/{payment_recipient}","methods":["PUT","PATCH"],"domain":null},"payment-recipients.destroy":{"uri":"payment-recipients\/{payment_recipient}","methods":["DELETE"],"domain":null},"payouts.index":{"uri":"commission\/{type?}","methods":["GET","HEAD"],"domain":null},"payouts.store":{"uri":"payouts","methods":["POST"],"domain":null},"default-payment-accounts.update":{"uri":"default-payment-accounts","methods":["PUT"],"domain":null},"subdomain.preview":{"uri":"\/","methods":["GET","HEAD"],"domain":"preview.trvl.com"},"subdomain.show":{"uri":"\/","methods":["GET","HEAD"],"domain":"{subdomain}.trvl.com"},"home":{"uri":"\/","methods":["GET","HEAD"],"domain":null},"subdomain.check-availability":{"uri":"subdomain-available\/{name}","methods":["GET","HEAD"],"domain":null},"log.store":{"uri":"log","methods":["POST"],"domain":null},"currencies.set":{"uri":"set-currency","methods":["POST"],"domain":null},"business.index":{"uri":"business","methods":["GET","HEAD"],"domain":null},"landing_page.cashback":{"uri":"cashreward","methods":["GET","HEAD"],"domain":null},"landing_page.discount":{"uri":"discount","methods":["GET","HEAD"],"domain":null},"landing_page.insider":{"uri":"insider","methods":["GET","HEAD"],"domain":null},"landing_page.insider_learn_more":{"uri":"insider-learn-more","methods":["GET","HEAD"],"domain":null},"landing_page.insider_promo":{"uri":"insider-promo","methods":["GET","HEAD"],"domain":null},"landing_page.insider_upgrade":{"uri":"insider-upgrade","methods":["GET","HEAD"],"domain":null},"insider.upgrade":{"uri":"insider\/{email}\/{token}","methods":["GET","HEAD"],"domain":null},"account.verify":{"uri":"account\/verify\/{hash}","methods":["GET","HEAD"],"domain":null},"account.verify_email":{"uri":"account\/verify_email\/{hash}","methods":["GET","HEAD"],"domain":null},"social.callback":{"uri":"callback\/{provider}","methods":["GET","HEAD"],"domain":null},"trip.create":{"uri":"new-search","methods":["GET","HEAD"],"domain":null},"hotels":{"uri":"hotels","methods":["GET","HEAD"],"domain":null},"hotels.availability.index":{"uri":"hotels\/availability","methods":["GET","HEAD"],"domain":null},"hotels.rooms.index":{"uri":"hotel\/{hotel}\/rooms","methods":["GET","HEAD"],"domain":null},"hotels.show":{"uri":"hotel\/{slug}\/{hash?}","methods":["GET","HEAD"],"domain":null},"hotels.update":{"uri":"hotels\/{hotel}","methods":["PUT"],"domain":null},"hotels.locations":{"uri":"hotel-locations","methods":["GET","HEAD"],"domain":null},"hotels.locations.availability":{"uri":"hotels-map-availability","methods":["GET","HEAD"],"domain":null},"bookings.create":{"uri":"book","methods":["GET","HEAD"],"domain":null},"bookings.store":{"uri":"bookings","methods":["POST"],"domain":null},"bookings.show":{"uri":"bookings\/{booking}","methods":["GET","HEAD"],"domain":null},"chats.store":{"uri":"chats","methods":["POST"],"domain":null},"chats.new":{"uri":"chats\/new","methods":["POST"],"domain":null},"chats.send":{"uri":"chats\/{channelUUID}\/send","methods":["POST"],"domain":null},"chats.index":{"uri":"chats","methods":["GET","HEAD"],"domain":null},"chats.show":{"uri":"chats\/{channelUUID}","methods":["GET","HEAD"],"domain":null},"chats.update":{"uri":"chats\/client","methods":["PUT"],"domain":null},"chats.restore":{"uri":"chats\/client\/{uuid}\/restore\/{channel_uuid?}","methods":["GET","HEAD"],"domain":null},"facebook_messenger.whoami":{"uri":"fbm\/whoami","methods":["GET","HEAD"],"domain":null},"facebook_messenger.hotels":{"uri":"fbm\/hotels","methods":["GET","HEAD"],"domain":null},"facebook_messenger.search":{"uri":"fbm\/search","methods":["GET","HEAD"],"domain":null},"about.index":{"uri":"{type}","methods":["GET","HEAD"],"domain":null},"about.tutorials.index":{"uri":"tutorials\/{item?}","methods":["GET","HEAD"],"domain":null},"stories.index":{"uri":"stories","methods":["GET","HEAD"],"domain":null},"stories.show":{"uri":"stories\/{slug}","methods":["GET","HEAD"],"domain":null},"stories.photos":{"uri":"photos","methods":["GET","HEAD"],"domain":null},"destinations.children":{"uri":"destinations\/{destination}\/children","methods":["GET","HEAD"],"domain":null},"destination.image":{"uri":"destination\/image\/{destinationString}","methods":["GET","HEAD"],"domain":null},"profile.map_markers":{"uri":"profile\/map_markers","methods":["GET","HEAD"],"domain":null},"destinations.continents":{"uri":"continents","methods":["GET","HEAD"],"domain":null},"destinations.countries":{"uri":"continents\/{destination}","methods":["GET","HEAD"],"domain":null},"destinations.index":{"uri":"destinations","methods":["GET","HEAD"],"domain":null},"landing-pages.hotels":{"uri":"landing-page\/hotels\/{id}","methods":["GET","HEAD"],"domain":null},"social.redirect":{"uri":"redirect\/{provider}","methods":["GET","HEAD"],"domain":null},"auth.login":{"uri":"login","methods":["POST"],"domain":null},"auth.login.connectsocial":{"uri":"login\/connectsocial","methods":["POST"],"domain":null},"auth.register":{"uri":"register","methods":["POST"],"domain":null},"account.request.reset":{"uri":"reset\/password","methods":["POST"],"domain":null},"account.reset.password":{"uri":"reset\/new\/password","methods":["POST"],"domain":null},"account.password.reset":{"uri":"reset\/password\/{email}\/{hash}","methods":["GET","HEAD"],"domain":null},"slug_detect":{"uri":"{slug}","methods":["GET","HEAD"],"domain":null},"slug_story_detect":{"uri":"{slug}\/{slugOrStory}","methods":["GET","HEAD"],"domain":null},"destinations.show":{"uri":"{destinationPath}","methods":["GET","HEAD"],"domain":null},"fallback":{"uri":"{fallbackPlaceholder}","methods":["GET","HEAD"],"domain":null}},
+        baseUrl: 'https://trvl.com/',
+        baseProtocol: 'https',
+        baseDomain: 'trvl.com',
+        basePort: false,
+        defaultParameters: []
+    };
+
+    !function(e,t){"object"==typeof exports&&"object"==typeof module?module.exports=t():"function"==typeof define&&define.amd?define("route",[],t):"object"==typeof exports?exports.route=t():e.route=t()}(this,function(){return function(e){function t(n){if(r[n])return r[n].exports;var o=r[n]={i:n,l:!1,exports:{}};return e[n].call(o.exports,o,o.exports,t),o.l=!0,o.exports}var r={};return t.m=e,t.c=r,t.d=function(e,r,n){t.o(e,r)||Object.defineProperty(e,r,{configurable:!1,enumerable:!0,get:n})},t.n=function(e){var r=e&&e.__esModule?function(){return e.default}:function(){return e};return t.d(r,"a",r),r},t.o=function(e,t){return Object.prototype.hasOwnProperty.call(e,t)},t.p="",t(t.s=0)}([function(e,t,r){"use strict";function n(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}function o(e,t){if(!e)throw new ReferenceError("this hasn't been initialised - super() hasn't been called");return!t||"object"!=typeof t&&"function"!=typeof t?e:t}function i(e,t){if("function"!=typeof t&&null!==t)throw new TypeError("Super expression must either be null or a function, not "+typeof t);e.prototype=Object.create(t&&t.prototype,{constructor:{value:e,enumerable:!1,writable:!0,configurable:!0}}),t&&(Object.setPrototypeOf?Object.setPrototypeOf(e,t):e.__proto__=t)}function a(e,t,r){return new f(e,t,r)}Object.defineProperty(t,"__esModule",{value:!0}),t.default=a;var u=r(1),s=Object.assign||function(e){for(var t=1;t<arguments.length;t++){var r=arguments[t];for(var n in r)Object.prototype.hasOwnProperty.call(r,n)&&(e[n]=r[n])}return e},c="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},l=function(){function e(e,t){for(var r=0;r<t.length;r++){var n=t[r];n.enumerable=n.enumerable||!1,n.configurable=!0,"value"in n&&(n.writable=!0),Object.defineProperty(e,n.key,n)}}return function(t,r,n){return r&&e(t.prototype,r),n&&e(t,n),t}}(),f=function(e){function t(e,r,i){n(this,t);var a=o(this,(t.__proto__||Object.getPrototypeOf(t)).call(this));return a.name=e,a.absolute=i,a.urlParams=a.normalizeParams(r),a.queryParams=a.normalizeParams(r),a}return i(t,e),l(t,[{key:"normalizeParams",value:function(e){return void 0===e?{}:(e="object"!==(void 0===e?"undefined":c(e))?[e]:e,this.numericParamIndices=Array.isArray(e),s({},e))}},{key:"with",value:function(e){return this.urlParams=this.normalizeParams(e),this}},{key:"withQuery",value:function(e){return s(this.queryParams,e),this}},{key:"hydrateUrl",value:function(){var e=this.urlParams,t=0,r=new u.a(this.name,this.absolute).construct(),n=r.match(/{([^}]+)}/gi),o=!1;return n&&n.length!=Object.keys(e).length&&(o=!0),r.replace(/{([^}]+)}/gi,function(r){var n=r.replace(/\{|\}/gi,"").replace(/\?$/,""),i=this.numericParamIndices?t:n,a=Ziggy.defaultParameters[n];if(a&&o&&(this.numericParamIndices?(e=Object.values(e),e.splice(i,0,a)):e[i]=a),t++,void 0!==e[i])return delete this.queryParams[i],e[i].id||encodeURIComponent(e[i]);if(-1===r.indexOf("?"))throw new Error("Ziggy Error: '"+n+"' key is required for route '"+this.name+"'");return""}.bind(this))}},{key:"matchUrl",value:function(){var e=(this.urlParams,new u.a(this.name,this.absolute).construct()),t=window.location.protocol+"//"+window.location.hostname+(window.location.port?":"+window.location.port:"")+window.location.pathname,r=e.replace(/(\{[^\}]*\})/gi,"[^/?]+"),n=t.replace(/\/?$/,"/");return new RegExp("^"+r+"/$").test(n)}},{key:"constructQuery",value:function(){if(0===Object.keys(this.queryParams).length)return"";var e="?";return Object.keys(this.queryParams).forEach(function(t,r){e=0===r?e:e+"&",e+=t+"="+encodeURIComponent(this.queryParams[t])}.bind(this)),e}},{key:"current",value:function(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:null,r=Object.keys(Ziggy.namedRoutes),n=r.filter(function(e){return new t(e).matchUrl()})[0];return e?e==n:n}},{key:"parse",value:function(){this.return=this.hydrateUrl()+this.constructQuery()}},{key:"url",value:function(){return this.parse(),this.return}},{key:"toString",value:function(){return this.url()}},{key:"valueOf",value:function(){return this.url()}}]),t}(String)},function(e,t,r){"use strict";function n(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var o=function(){function e(e,t){for(var r=0;r<t.length;r++){var n=t[r];n.enumerable=n.enumerable||!1,n.configurable=!0,"value"in n&&(n.writable=!0),Object.defineProperty(e,n.key,n)}}return function(t,r,n){return r&&e(t.prototype,r),n&&e(t,n),t}}(),i=function(){function e(t,r){if(n(this,e),this.name=t,this.route=Ziggy.namedRoutes[this.name],void 0===this.name)throw new Error("Ziggy Error: You must provide a route name");if(void 0===this.route)throw new Error("Ziggy Error: route '"+this.name+"' is not found in the route list");this.absolute=void 0===r||r,this.domain=this.setDomain(),this.path=this.route.uri.replace(/^\//,"")}return o(e,[{key:"setDomain",value:function(){if(!this.absolute)return"/";if(!this.route.domain)return Ziggy.baseUrl.replace(/\/?$/,"/");var e=(this.route.domain||Ziggy.baseDomain).replace(/\/+$/,"");return Ziggy.basePort&&e.replace(/\/+$/,"")===Ziggy.baseDomain.replace(/\/+$/,"")&&(e=Ziggy.baseDomain+":"+Ziggy.basePort),Ziggy.baseProtocol+"://"+e+"/"}},{key:"construct",value:function(){return this.domain+this.path}}]),e}();t.a=i}]).default});
+</script>
+<script>
+   window.Laravel = {"csrfToken":"AcHICRM0aUFzsuGFVR8k4CKK1dejpWsmzjE4upMw","clientSID":"fgxJeT0FS9Sqc84c","userIsAgent":false,"queryString":{"children":[],"selectedTab":"popularity","hotelName":"","ratingSelected":null,"neighborhoods":[],"prices":[],"amenities":[],"booking":[],"propertyTypes":[],"filterMobileRates":0,"filterExpressDeals":0},"dates":[],"currency":"CA$","pusher":{"key":"b8434d313cc4ba2eef75","cluster":"eu"},"onSubdomain":false,"userSubdomain":"","isSubdomain":null,"subdomainSet":false,"subdomainIsPublic":false,"profileBio":"","missingSubdomainData":false,"isAdmin":false,"oldInput":[],"baseShareUrl":"trvl.com","shouldShowCommission":false,"destination":null,"stories_site_url":"https:\/\/stories.trvl.com","environment":"production","chat_session_uuid":"8d1ba1d5-f8ef-4b0c-8467-fb33cb8224ab","insiderSubscriptionPrice":"24.99","user":{"isNew":false,"profileImage":"","headerImage":"","firstName":"","lastName":"","hometown":"","title":"","role":"","email":"","phone":"","phoneIsVerified":false,"emailIsVerified":true,"destinationExpertise":"","chat_window_position":"","travelExpertise":[],"isInsider":null,"insiderTrial":false,"insiderTrialEndDate":null,"insiderSubscribed":false,"insiderEndDate":null,"defaultPaymentAccountId":null,"locationTermsAccepted":false},"hotel":{"id":null,"hash":null},"in_chat":null,"sessionDomain":".trvl.com","forcedOpenChat":null,"isLocationBlocked":false,"viewType":"list","stripe_public":"pk_live_8mG3Q4IcHci37FB68RGTSGb2","dateFormat":"d-m-Y","dateFormatReadable":"l, j F Y","dateFormatReadableShort":"j F","dateFormatReadableShorter":"j M","totalPriceMethod":2,"unit":"metric","moneyFormat":"ca_CA","moneyThousands":",","countryCode":"CA","userIpLocation":{"latitude":43.6319,"longitude":-79.3716}}
+</script>
+
+<script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    </script>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-N6X3FH3');</script>
+    <!-- End Google Tag Manager -->
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+            n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+            document,'script','https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '1284541694947274'); // Insert your pixel ID here.
+        fbq('track', 'PageView');
+    </script>
+    <noscript>
+        <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1284541694947274&ev=PageView&noscript=1" />
+    </noscript>
+    <!-- End Facebook Pixel Code -->
+    <script>
+                ga('create', 'UA-68937631-3', 'auto');
+        ga('send', 'pageview',
+            {
+                'dimension2': 'Traveler',
+                'dimension3': 'Other',
+                'dimension4': 'Direct'
+            });
+            </script>
+	</head>
+
+	<body class="js-hidden v-cloak ">
+                    <!-- Google Tag Manager (noscript) -->
+            <noscript>
+                <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N6X3FH3" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+              </noscript>
+            <!-- End Google Tag Manager (noscript) -->
+        
+        
+        
+        
+        <div id="app">
+            <header class="header">
+                <div class="header-inner">
+    <div class="relative">
+        
+        <h1 class="logo ">
+            <a class="logo-link" href="/">
+                <span class="accessible">TRVL</span>
+                <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                     width="37px" height="32px" viewBox="0 0 37 32" enable-background="new 0 0 37 32" xml:space="preserve">
+                                     <title>TRVL</title>
+                    <g id="stylekit">
+                        <g id="icons" transform="translate(-16.000000, -225.000000)">
+                            <path id="logo-trvl" fill="#004084" d="M29.017,235.309c0.004-0.35,0.792-0.741,1.355-0.741c0.6,0,0.46,0.452,0.47,0.775
+                                                c0.023,0.788,0.009,1.578,0.008,2.366c-0.002,1.462-0.234,1.743-1.84,2.11C29.01,238.275,29,236.792,29.017,235.309
+                                                 M25.828,248.769c0,0.217,0.026,0.434,0.046,0.745c0.926-0.334,1.763-0.656,2.614-0.934c0.384-0.125,0.529-0.323,0.521-0.73
+                                                c-0.021-1.244-0.007-2.49-0.007-3.734c0-1.408,0-1.408,1.353-1.83c0.021-0.007,0.042-0.018,0.063-0.023
+                                                c0.606-0.177,0.804-0.055,0.818,0.572c0.021,0.973-0.006,1.947,0.017,2.92c0.009,0.403,0.05,0.818,0.167,1.201
+                                                c0.049,0.158,0.379,0.383,0.505,0.342c0.938-0.301,1.857-0.66,2.691-0.969c-0.074-0.763-0.173-1.429-0.194-2.098
+                                                c-0.031-0.972,0.004-1.946-0.006-2.919c-0.01-0.903-0.429-1.414-1.315-1.639c-0.174-0.044-0.351-0.083-0.583-0.137
+                                                c1.458-1.48,1.574-1.769,1.574-3.841c0-0.792,0.002-1.584,0-2.377c-0.007-2.201-0.804-2.77-2.895-2.034
+                                                c-1.576,0.554-3.131,1.171-4.715,1.701c-0.538,0.18-0.669,0.45-0.667,0.979C25.833,238.897,25.826,243.833,25.828,248.769z
+                                                 M52.988,241.491c-0.338,0.107-0.574,0.173-0.805,0.257c-5.955,2.189-11.91,4.381-17.864,6.57
+                                                c-5.001,1.84-10.004,3.676-15.001,5.526c-0.25,0.093-0.633,0.296-0.646,0.471c-0.067,0.864-0.03,1.737-0.03,2.685
+                                                c0.348-0.115,0.58-0.186,0.808-0.27c7.842-2.882,15.684-5.766,23.523-8.648c3.137-1.153,6.276-2.299,9.405-3.474
+                                                c0.241-0.091,0.564-0.364,0.583-0.575C53.029,243.227,52.988,242.41,52.988,241.491z M37.375,240.369
+                                                c0.322,1.565,0.723,3.115,1.115,4.793c0.742-0.271,1.318-0.537,1.924-0.689c0.742-0.186,1.041-0.632,1.174-1.358
+                                                c0.883-4.843,1.801-9.68,2.703-14.521c0.117-0.626,0.205-1.257,0.326-2.002c-1.043,0.376-1.939,0.678-2.812,1.035
+                                                c-0.178,0.072-0.357,0.345-0.385,0.545c-0.342,2.553-0.65,5.111-0.982,7.666c-0.123,0.938-0.289,1.87-0.436,2.805
+                                                c-0.067-0.002-0.136-0.005-0.204-0.007c-0.456-3.277-0.913-6.554-1.378-9.895c-0.941,0.341-1.804,0.672-2.68,0.963
+                                                c-0.389,0.129-0.441,0.311-0.361,0.701C36.058,233.723,36.691,237.051,37.375,240.369z M18.785,252.111
+                                                c0.951-0.34,1.761-0.665,2.615-0.943c0.389-0.128,0.515-0.332,0.512-0.734c-0.018-2.193-0.003-4.387-0.003-6.58v-6.274
+                                                c0.679-0.282,1.487-0.544,2.214-0.842c0.181-0.075,0.435-0.261,0.442-0.406c0.042-0.847,0.018-1.696,0.018-2.533
+                                                c-0.131-0.016-0.182-0.038-0.219-0.025c-2.672,0.97-5.344,1.939-8.009,2.927c-0.149,0.055-0.333,0.267-0.339,0.412
+                                                c-0.033,0.83-0.002,1.661-0.002,2.58c0.946-0.327,1.821-0.624,2.772-0.954V252.111z M46.082,241.635v0.855
+                                                c2.309-0.841,4.43-1.621,6.563-2.417c0.139-0.052,0.321-0.228,0.325-0.352c0.029-0.824,0.003-1.65,0.003-2.565
+                                                c-1.283,0.463-2.411,0.887-3.769,1.356V225c-0.814,0.323-1.658,0.641-2.456,0.874c-0.562,0.164-0.69,0.472-0.688,1.028
+                                                C46.082,231.812,46.082,236.724,46.082,241.635z"/>
+                        </g>
+                    </g>
+                                </svg>
+            </a>
+        </h1>
+
+        <div class="header-search">
+            <header-search/>
+        </div>
+
+        <nav class="menu">
+            <h2 class="accessible">Menu</h2>
+            <ul class="menu-list list">
+                <li class="menu-item show-mobile"><a href="/" class="menu-link">Home</a></li>
+
+                
+                <li class="menu-item menu-item-destinations hide-md ">
+                    <div class="dropdown">
+                        <button type="button" class="menu-link" data-toggle="dropdown">Destinations</button>
+                        <div class="dropdown-menu dropdown-menu-animate visually-hidden">
+                            <ul class="list">
+                                                                    <li>
+                                        <a href="https://trvl.com/africa" class="dropdown-link">Africa</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://trvl.com/asia" class="dropdown-link">Asia</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://trvl.com/australia-pacific" class="dropdown-link">Australia &amp; Pacific</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://trvl.com/caribbean" class="dropdown-link">The Caribbean</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://trvl.com/central-america" class="dropdown-link">Central America</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://trvl.com/europe" class="dropdown-link">Europe</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://trvl.com/middle-east" class="dropdown-link">The Middle East</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://trvl.com/north-america" class="dropdown-link">North America</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://trvl.com/south-america" class="dropdown-link">South America</a>
+                                    </li>
+                                                                <li>
+                                    <a href="https://trvl.com/continents" class="dropdown-link dropdown-link-special">Show all destinations</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+
+                <li class="menu-item menu-item-select show-md">
+                    <select name="destinations" class="custom-select" onchange="if (this.value) window.location.href=this.value">
+                        <option value="">Destinations</option>
+                                                    <option value="https://trvl.com/africa">Africa</option>
+                                                    <option value="https://trvl.com/asia">Asia</option>
+                                                    <option value="https://trvl.com/australia-pacific">Australia &amp; Pacific</option>
+                                                    <option value="https://trvl.com/caribbean">The Caribbean</option>
+                                                    <option value="https://trvl.com/central-america">Central America</option>
+                                                    <option value="https://trvl.com/europe">Europe</option>
+                                                    <option value="https://trvl.com/middle-east">The Middle East</option>
+                                                    <option value="https://trvl.com/north-america">North America</option>
+                                                    <option value="https://trvl.com/south-america">South America</option>
+                                                <option value="/continents">Show all destinations</option>
+                    </select>
+                </li>
+
+                <li class="menu-item menu-item-select prevent-touch-tooltip menu-item-currency " title="Choose a currency" data-tooltip>
+                    <form action="https://trvl.com/set-currency" method="POST">
+                        <select name="currency" class="custom-select" onchange="this.form.submit()">
+                                                            <option  value="USD" data-formatted-value="USD">&#36; USD</option>
+                                                            <option  value="EUR" data-formatted-value="EUR">&euro; EUR</option>
+                                                            <option  value="GBP" data-formatted-value="GBP">&pound; GBP</option>
+                                                            <option  value="AUD" data-formatted-value="AUD">&#36; AUD</option>
+                                                            <option selected value="CAD" data-formatted-value="CAD">&#36; CAD</option>
+                                                            <option  value="NZD" data-formatted-value="NZD">&#36; NZD</option>
+                                                            <option  value="JPY" data-formatted-value="JPY">&yen; JPY</option>
+                                                            <option  value="HKD" data-formatted-value="HKD">&#36; HKD</option>
+                                                            <option  value="CNY" data-formatted-value="CNY">&#20803; CNY</option>
+                                                            <option  value="INR" data-formatted-value="INR">&#8377; INR</option>
+                                                            <option  value="ZAR" data-formatted-value="ZAR">R ZAR</option>
+                                                            <option  value="TRY" data-formatted-value="TRY">&#8378; TRY</option>
+                                                            <option  value="SGD" data-formatted-value="SGD">S&#36; SGD</option>
+                                                    </select>
+                        <input type="hidden" name="_token" value="AcHICRM0aUFzsuGFVR8k4CKK1dejpWsmzjE4upMw">
+                    </form>
+                </li>
+
+                                    <div class="inline-block">
+                        <li class="menu-item divider">
+                            <button type="button" class="menu-link" data-auth-toggle data-auth-type="signup">Sign up</button>
+                        </li>
+                        <li class="menu-item menu-item-login">
+                            <button type="button" class="button menu-link" data-auth-toggle data-auth-type="login">Log in</button>
+                        </li>
+                    </div>
+                
+                
+                            </ul>
+        </nav>
+
+        
+        <button type="button" class="mobile-menu toggle-mobile-menu" @click="toggleMobileMenu">
+            <span class="mobile-menu-icon"></span>
+            <span class="accessible">Show mobile menu</span>
+        </button>
+    </div>
+</div>
+            </header>
+
+            <main id="main" role="main" class="main">
+                    <section class="destination">
+    <div class="destination-hero content-hero">
+        <header>
+            <h1>Chaweng Beach</h1>
+        </header>
+        <a href="#destination-map" class="destination-hero-meta-left">
+            <span class="destination-hero-meta-icon trvl-icon-marker"></span>
+            <span class="destination-hero-meta-title">view on map</span>
+        </a>
+        <img class="hero-img object-fit-cover" src="https://api.services.trvl.com/backgrounds/images/chaweng-beach_1.jpg" alt="Chaweng Beach">
+    </div>
+</section>
+
+<section class="content-meta">
+    <div class="flex">
+        <div class="content row">
+            <div class="content-meta-left">
+                <ul class="breadcrumb-list list">
+                                            <li><a href="https://trvl.com/asia">Asia</a></li>
+                                            <li><a href="https://trvl.com/thailand">Thailand</a></li>
+                                            <li><a href="https://trvl.com/koh-samui">Koh Samui</a></li>
+                                        <li>Chaweng Beach</li>
+                </ul>
+            </div>
+            <div class="content-meta-right">
+                                <ul class="share-list share-content-list list">
+    <li class="share-item share-item-whatsapp">
+        <a class="share-link" data-share-link data-share-url="https://trvl.com/koh-samui/chaweng-beach" data-type="whatsapp" data-text="Chaweng Beach" title="WhatsApp">
+            <span class="trvl-icon-whatsapp"></span> Whatsapp
+        </a>
+    </li>
+        <li class="share-item share-item-facebook-messenger">
+        <a class="share-link" data-share-link data-share-url="https://trvl.com/koh-samui/chaweng-beach" data-type="facebook-messenger" data-text="Chaweng Beach" title="Facebook Messenger">
+            <span class="trvl-icon-facebook-messenger"></span> Messenger
+        </a>
+    </li>
+    <li class="share-item">
+        <a class="share-link" data-share-link data-share-url="https://trvl.com/koh-samui/chaweng-beach" data-type="email" data-text="Chaweng Beach" title="Email">
+            <span class="trvl-icon-mail"></span> Email
+        </a>
+    </li>
+    <li class="share-item">
+        <a class="share-link" data-share-link data-share-url="https://trvl.com/koh-samui/chaweng-beach" data-type="facebook" title="Facebook">
+            <span class="trvl-icon-facebook-1"></span> Facebook
+        </a>
+    </li>
+    <li class="share-item">
+        <a class="share-link" data-share-link data-share-url="https://trvl.com/koh-samui/chaweng-beach" data-type="twitter" data-text="Chaweng Beach" title="Twitter">
+            <span class="trvl-icon-twitter"></span> Twitter
+        </a>
+    </li>
+    <li class="share-item share-item-linkedin">
+        <a class="share-link" data-share-link data-share-url="https://trvl.com/koh-samui/chaweng-beach" data-type="linkedin" data-text="Chaweng Beach" title="LinkedIn">
+            <span class="trvl-icon-linkedin-1"></span> LinkedIn
+        </a>
+    </li>
+    <li class="share-item">
+        <a class="share-link" data-share-link data-share-url="https://trvl.com/koh-samui/chaweng-beach" data-type="pinterest" data-text="Chaweng Beach" data-media="//api.services.trvl.com/backgrounds/images/chaweng-beach_1.jpg" title="Pinterest">
+            <span class="trvl-icon-pinterest-1"></span> Pinterest
+        </a>
+    </li>
+</ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+    
+    
+    
+
+            <section class="slider-section">
+        <div class="flex content entry">
+            <header>
+                <h2>TRVL Favorites in Chaweng Beach</h2>
+            </header>
+            <div class="slider-images">
+                                    <button class="slider-nav slider-prev" data-slider-content data-slider-content-prev><span class="trvl-icon-chevron"></span></button>
+                                <div class="cols row" data-draggable>
+                                            <div class="col-xs-10 col-md-4 col-lg-3 card-item">
+                            <article class="card card-hotel">
+    <a class="card-link" href="https://trvl.com/hotel/ozo-chaweng-samui" target="_blank">
+        <figure class="card-figure">
+            <img src="https://media.expedia.com/hotels/8000000/7350000/7341300/7341239/2702ed10_b.jpg" alt="OZO Chaweng Samui">
+        </figure>
+        <div class="card-content">
+            <div class="card-overlay">
+                <h3 class="card-title">OZO Chaweng Samui</h3>
+                <span class="card-rating rating">
+            <span class="trvl-icon-star"></span>
+            <span class="trvl-icon-star"></span>
+            <span class="trvl-icon-star"></span>
+    
+            <span class="trvl-icon-star-half"></span>
+    </span>                <h4 class="card-subtitle"></h4>
+            </div>
+            <div class="card-logos row">
+                <div class="card-logo-item">
+                    <img src="/assets/img/logos/booking.svg" alt="Booking.com" class="card-logo card-logo-booking">
+                </div>
+                <div class="card-logo-item">
+                    <img src="/assets/img/logos/ean.svg" alt="Hotels.com" class="card-logo card-logo-ean">
+                </div>
+            </div>
+            <span class="card-prices button button-clean">Find lowest price</span>
+        </div>
+    </a>
+    </article>
+                        </div>
+                                            <div class="col-xs-10 col-md-4 col-lg-3 card-item">
+                            <article class="card card-hotel">
+    <a class="card-link" href="https://trvl.com/hotel/amari-koh-samui" target="_blank">
+        <figure class="card-figure">
+            <img src="https://media.expedia.com/hotels/1000000/530000/527300/527257/527257_161_b.jpg" alt="Amari Koh Samui">
+        </figure>
+        <div class="card-content">
+            <div class="card-overlay">
+                <h3 class="card-title">Amari Koh Samui</h3>
+                <span class="card-rating rating">
+            <span class="trvl-icon-star"></span>
+            <span class="trvl-icon-star"></span>
+            <span class="trvl-icon-star"></span>
+            <span class="trvl-icon-star"></span>
+    
+    </span>                <h4 class="card-subtitle"></h4>
+            </div>
+            <div class="card-logos row">
+                <div class="card-logo-item">
+                    <img src="/assets/img/logos/booking.svg" alt="Booking.com" class="card-logo card-logo-booking">
+                </div>
+                <div class="card-logo-item">
+                    <img src="/assets/img/logos/ean.svg" alt="Hotels.com" class="card-logo card-logo-ean">
+                </div>
+            </div>
+            <span class="card-prices button button-clean">Find lowest price</span>
+        </div>
+    </a>
+    </article>
+                        </div>
+                                            <div class="col-xs-10 col-md-4 col-lg-3 card-item">
+                            <article class="card card-hotel">
+    <a class="card-link" href="https://trvl.com/hotel/the-library-1" target="_blank">
+        <figure class="card-figure">
+            <img src="https://media.expedia.com/hotels/2000000/1580000/1570100/1570011/1570011_158_b.jpg" alt="The Library">
+        </figure>
+        <div class="card-content">
+            <div class="card-overlay">
+                <h3 class="card-title">The Library</h3>
+                <span class="card-rating rating">
+            <span class="trvl-icon-star"></span>
+            <span class="trvl-icon-star"></span>
+            <span class="trvl-icon-star"></span>
+            <span class="trvl-icon-star"></span>
+    
+            <span class="trvl-icon-star-half"></span>
+    </span>                <h4 class="card-subtitle"></h4>
+            </div>
+            <div class="card-logos row">
+                <div class="card-logo-item">
+                    <img src="/assets/img/logos/booking.svg" alt="Booking.com" class="card-logo card-logo-booking">
+                </div>
+                <div class="card-logo-item">
+                    <img src="/assets/img/logos/ean.svg" alt="Hotels.com" class="card-logo card-logo-ean">
+                </div>
+            </div>
+            <span class="card-prices button button-clean">Find lowest price</span>
+        </div>
+    </a>
+    </article>
+                        </div>
+                                            <div class="col-xs-10 col-md-4 col-lg-3 card-item">
+                            <article class="card card-hotel">
+    <a class="card-link" href="https://trvl.com/hotel/poppies-samui-resort" target="_blank">
+        <figure class="card-figure">
+            <img src="https://media.expedia.com/hotels/18000000/17870000/17865000/17864903/eee9cdd5_b.jpg" alt="Poppies Samui Resort">
+        </figure>
+        <div class="card-content">
+            <div class="card-overlay">
+                <h3 class="card-title">Poppies Samui Resort</h3>
+                <span class="card-rating rating">
+            <span class="trvl-icon-star"></span>
+            <span class="trvl-icon-star"></span>
+            <span class="trvl-icon-star"></span>
+            <span class="trvl-icon-star"></span>
+    
+    </span>                <h4 class="card-subtitle"></h4>
+            </div>
+            <div class="card-logos row">
+                <div class="card-logo-item">
+                    <img src="/assets/img/logos/booking.svg" alt="Booking.com" class="card-logo card-logo-booking">
+                </div>
+                <div class="card-logo-item">
+                    <img src="/assets/img/logos/ean.svg" alt="Hotels.com" class="card-logo card-logo-ean">
+                </div>
+            </div>
+            <span class="card-prices button button-clean">Find lowest price</span>
+        </div>
+    </a>
+    </article>
+                        </div>
+                                            <div class="col-xs-10 col-md-4 col-lg-3 card-item">
+                            <article class="card card-hotel">
+    <a class="card-link" href="https://trvl.com/hotel/buri-rasa-village" target="_blank">
+        <figure class="card-figure">
+            <img src="https://media.expedia.com/hotels/2000000/1800000/1795600/1795514/1795514_59_b.jpg" alt="Buri Rasa Village">
+        </figure>
+        <div class="card-content">
+            <div class="card-overlay">
+                <h3 class="card-title">Buri Rasa Village</h3>
+                <span class="card-rating rating">
+            <span class="trvl-icon-star"></span>
+            <span class="trvl-icon-star"></span>
+            <span class="trvl-icon-star"></span>
+            <span class="trvl-icon-star"></span>
+    
+    </span>                <h4 class="card-subtitle"></h4>
+            </div>
+            <div class="card-logos row">
+                <div class="card-logo-item">
+                    <img src="/assets/img/logos/booking.svg" alt="Booking.com" class="card-logo card-logo-booking">
+                </div>
+                <div class="card-logo-item">
+                    <img src="/assets/img/logos/ean.svg" alt="Hotels.com" class="card-logo card-logo-ean">
+                </div>
+            </div>
+            <span class="card-prices button button-clean">Find lowest price</span>
+        </div>
+    </a>
+    </article>
+                        </div>
+                                    </div>
+                                    <button class="slider-nav slider-next" data-slider-content data-slider-content-next><span class="trvl-icon-chevron"></span></button>
+                            </div>
+        </div>
+    </section>
+    
+    
+            <section class="slider-section">
+    <div class="flex content entry">
+        <header>
+            <h2>More neighborhoods in Koh Samui</h2>
+        </header>
+        <div class="slider-images">
+                            <button class="slider-nav slider-prev" data-slider-content data-slider-content-prev><span class="trvl-icon-chevron"></span></button>
+                        <div class="cols row">
+                                                            <div class="col-xs-10 col-md-4 card-item">
+    <article>
+        <a href="https://trvl.com/koh-samui/lamai-beach" class="slider-image">
+            <picture>
+                <source srcset="https://api.services.trvl.com/backgrounds/images/lamai-beach_1.jpg 1x, https://api.services.trvl.com/backgrounds/images/lamai-beach_1.jpg 2x" media="max-width: 320px"></source>
+                <source srcset="https://api.services.trvl.com/backgrounds/images/lamai-beach_1.jpg 1x, https://api.services.trvl.com/backgrounds/images/lamai-beach_1.jpg 2x" media="max-width: 414px"></source>
+                <source srcset="https://api.services.trvl.com/backgrounds/images/lamai-beach_1.jpg 1x, https://api.services.trvl.com/backgrounds/images/lamai-beach_1.jpg 2x" media="max-width: 768px"></source>
+                <source srcset="https://api.services.trvl.com/backgrounds/images/lamai-beach_1.jpg 1x, https://api.services.trvl.com/backgrounds/images/lamai-beach_1.jpg 2x" media="max-width: 1024px"></source>
+                <source srcset="https://api.services.trvl.com/backgrounds/images/lamai-beach_1.jpg 1x, https://api.services.trvl.com/backgrounds/images/lamai-beach_1.jpg 2x"></source>
+                <img src="https://api.services.trvl.com/backgrounds/images/lamai-beach_1.jpg" class="object-fit-cover" alt="Lamai Beach">
+            </picture>
+            <header>
+                <h3>Lamai Beach</h3>
+            </header>
+        </a>
+    </article>
+</div>
+                                            <div class="col-xs-10 col-md-4 card-item">
+    <article>
+        <a href="https://trvl.com/koh-samui/bophut-beach" class="slider-image">
+            <picture>
+                <source srcset="https://api.services.trvl.com/backgrounds/images/bophut-beach_1.jpg 1x, https://api.services.trvl.com/backgrounds/images/bophut-beach_1.jpg 2x" media="max-width: 320px"></source>
+                <source srcset="https://api.services.trvl.com/backgrounds/images/bophut-beach_1.jpg 1x, https://api.services.trvl.com/backgrounds/images/bophut-beach_1.jpg 2x" media="max-width: 414px"></source>
+                <source srcset="https://api.services.trvl.com/backgrounds/images/bophut-beach_1.jpg 1x, https://api.services.trvl.com/backgrounds/images/bophut-beach_1.jpg 2x" media="max-width: 768px"></source>
+                <source srcset="https://api.services.trvl.com/backgrounds/images/bophut-beach_1.jpg 1x, https://api.services.trvl.com/backgrounds/images/bophut-beach_1.jpg 2x" media="max-width: 1024px"></source>
+                <source srcset="https://api.services.trvl.com/backgrounds/images/bophut-beach_1.jpg 1x, https://api.services.trvl.com/backgrounds/images/bophut-beach_1.jpg 2x"></source>
+                <img src="https://api.services.trvl.com/backgrounds/images/bophut-beach_1.jpg" class="object-fit-cover" alt="Bophut Beach">
+            </picture>
+            <header>
+                <h3>Bophut Beach</h3>
+            </header>
+        </a>
+    </article>
+</div>
+                                            <div class="col-xs-10 col-md-4 card-item">
+    <article>
+        <a href="https://trvl.com/koh-samui/maenam-beach" class="slider-image">
+            <picture>
+                <source srcset="https://api.services.trvl.com/backgrounds/images/maenam-beach_1.jpg 1x, https://api.services.trvl.com/backgrounds/images/maenam-beach_1.jpg 2x" media="max-width: 320px"></source>
+                <source srcset="https://api.services.trvl.com/backgrounds/images/maenam-beach_1.jpg 1x, https://api.services.trvl.com/backgrounds/images/maenam-beach_1.jpg 2x" media="max-width: 414px"></source>
+                <source srcset="https://api.services.trvl.com/backgrounds/images/maenam-beach_1.jpg 1x, https://api.services.trvl.com/backgrounds/images/maenam-beach_1.jpg 2x" media="max-width: 768px"></source>
+                <source srcset="https://api.services.trvl.com/backgrounds/images/maenam-beach_1.jpg 1x, https://api.services.trvl.com/backgrounds/images/maenam-beach_1.jpg 2x" media="max-width: 1024px"></source>
+                <source srcset="https://api.services.trvl.com/backgrounds/images/maenam-beach_1.jpg 1x, https://api.services.trvl.com/backgrounds/images/maenam-beach_1.jpg 2x"></source>
+                <img src="https://api.services.trvl.com/backgrounds/images/maenam-beach_1.jpg" class="object-fit-cover" alt="Maenam Beach">
+            </picture>
+            <header>
+                <h3>Maenam Beach</h3>
+            </header>
+        </a>
+    </article>
+</div>
+                                                                                <div class="col-xs-10 col-md-4 card-item">
+    <article>
+        <a href="https://trvl.com/koh-samui/big-buddha-beach" class="slider-image">
+            <picture>
+                <source srcset="https://api.services.trvl.com/backgrounds/images/big-buddha-beach_1.jpg 1x, https://api.services.trvl.com/backgrounds/images/big-buddha-beach_1.jpg 2x" media="max-width: 320px"></source>
+                <source srcset="https://api.services.trvl.com/backgrounds/images/big-buddha-beach_1.jpg 1x, https://api.services.trvl.com/backgrounds/images/big-buddha-beach_1.jpg 2x" media="max-width: 414px"></source>
+                <source srcset="https://api.services.trvl.com/backgrounds/images/big-buddha-beach_1.jpg 1x, https://api.services.trvl.com/backgrounds/images/big-buddha-beach_1.jpg 2x" media="max-width: 768px"></source>
+                <source srcset="https://api.services.trvl.com/backgrounds/images/big-buddha-beach_1.jpg 1x, https://api.services.trvl.com/backgrounds/images/big-buddha-beach_1.jpg 2x" media="max-width: 1024px"></source>
+                <source srcset="https://api.services.trvl.com/backgrounds/images/big-buddha-beach_1.jpg 1x, https://api.services.trvl.com/backgrounds/images/big-buddha-beach_1.jpg 2x"></source>
+                <img src="https://api.services.trvl.com/backgrounds/images/big-buddha-beach_1.jpg" class="object-fit-cover" alt="Big Buddha Beach">
+            </picture>
+            <header>
+                <h3>Big Buddha Beach</h3>
+            </header>
+        </a>
+    </article>
+</div>
+                                            <div class="col-xs-10 col-md-4 card-item">
+    <article>
+        <a href="https://trvl.com/koh-samui/lipa-noi" class="slider-image">
+            <picture>
+                <source srcset="https://api.services.trvl.com/backgrounds/images/lipa-noi_1.jpg 1x, https://api.services.trvl.com/backgrounds/images/lipa-noi_1.jpg 2x" media="max-width: 320px"></source>
+                <source srcset="https://api.services.trvl.com/backgrounds/images/lipa-noi_1.jpg 1x, https://api.services.trvl.com/backgrounds/images/lipa-noi_1.jpg 2x" media="max-width: 414px"></source>
+                <source srcset="https://api.services.trvl.com/backgrounds/images/lipa-noi_1.jpg 1x, https://api.services.trvl.com/backgrounds/images/lipa-noi_1.jpg 2x" media="max-width: 768px"></source>
+                <source srcset="https://api.services.trvl.com/backgrounds/images/lipa-noi_1.jpg 1x, https://api.services.trvl.com/backgrounds/images/lipa-noi_1.jpg 2x" media="max-width: 1024px"></source>
+                <source srcset="https://api.services.trvl.com/backgrounds/images/lipa-noi_1.jpg 1x, https://api.services.trvl.com/backgrounds/images/lipa-noi_1.jpg 2x"></source>
+                <img src="https://api.services.trvl.com/backgrounds/images/lipa-noi_1.jpg" class="object-fit-cover" alt="Lipa Noi">
+            </picture>
+            <header>
+                <h3>Lipa Noi</h3>
+            </header>
+        </a>
+    </article>
+</div>
+                                            <div class="col-xs-10 col-md-4 card-item">
+    <article>
+        <a href="https://trvl.com/koh-samui/taling-ngam" class="slider-image">
+            <picture>
+                <source srcset="https://api.services.trvl.com/backgrounds/images/taling-ngam_1.jpg 1x, https://api.services.trvl.com/backgrounds/images/taling-ngam_1.jpg 2x" media="max-width: 320px"></source>
+                <source srcset="https://api.services.trvl.com/backgrounds/images/taling-ngam_1.jpg 1x, https://api.services.trvl.com/backgrounds/images/taling-ngam_1.jpg 2x" media="max-width: 414px"></source>
+                <source srcset="https://api.services.trvl.com/backgrounds/images/taling-ngam_1.jpg 1x, https://api.services.trvl.com/backgrounds/images/taling-ngam_1.jpg 2x" media="max-width: 768px"></source>
+                <source srcset="https://api.services.trvl.com/backgrounds/images/taling-ngam_1.jpg 1x, https://api.services.trvl.com/backgrounds/images/taling-ngam_1.jpg 2x" media="max-width: 1024px"></source>
+                <source srcset="https://api.services.trvl.com/backgrounds/images/taling-ngam_1.jpg 1x, https://api.services.trvl.com/backgrounds/images/taling-ngam_1.jpg 2x"></source>
+                <img src="https://api.services.trvl.com/backgrounds/images/taling-ngam_1.jpg" class="object-fit-cover" alt="Taling Ngam">
+            </picture>
+            <header>
+                <h3>Taling Ngam</h3>
+            </header>
+        </a>
+    </article>
+</div>
+                                                </div>
+                            <button class="slider-nav slider-next" data-slider-content data-slider-content-next><span class="trvl-icon-chevron"></span></button>
+                    </div>
+    </div>
+</section>
+    
+    <section id="destination-map" class="map-section">
+    <div class="flex content entry">
+        <header>
+            <h2>Explore TRVL Favorites in Chaweng Beach</h2>
+        </header>
+        <div id="map" data-map-markers="https://trvl.com/destinations/koh-samui/chaweng-beach/children" data-latitude="9.520999" data-longitude="100.057382" class="map destination-map"></div>
+    </div>
+</section>
+
+            <section class="flex content entry">
+        <header>
+            <h2>Stories about Thailand</h2>
+        </header>
+        <div class="stories-slider">
+                            <div class="card-item">
+                    <article class="card">
+                        <a href="/bangkok/bangkok-bus-ride-to-thai-market" target="_blank" class="card-link">
+                            <picture class="card-picture">
+                                <source srcset="https://stories.trvl.com/cache/img/c-181-121/wp-content/uploads/2012/10/017-jdw04972-e1450710703594.jpg 1x, https://stories.trvl.com/cache/img/c-363-243/wp-content/uploads/2012/10/017-jdw04972-e1450710703594.jpg 2x" media="(max-width: 414px)">
+                                <source srcset="https://stories.trvl.com/cache/img/c-344-229/wp-content/uploads/2012/10/017-jdw04972-e1450710703594.jpg 1x, https://stories.trvl.com/cache/img/c-688-459/wp-content/uploads/2012/10/017-jdw04972-e1450710703594.jpg 2x" media="(max-width: 739px)">
+                                <source srcset="https://stories.trvl.com/cache/img/c-358-238/wp-content/uploads/2012/10/017-jdw04972-e1450710703594.jpg 1x, https://stories.trvl.com/cache/img/c-716-476/wp-content/uploads/2012/10/017-jdw04972-e1450710703594.jpg 2x">
+                                <img src="https://stories.trvl.com/cache/img/c-358-238/wp-content/uploads/2012/10/017-jdw04972-e1450710703594.jpg" alt="Where there’s a will…">
+                            </picture>
+                            <hgroup class="card-content">
+                                <h1 class="card-title">Where there’s a will…</h1>
+                                <h2 class="card-subtitle">Bangkok – Been There</h2>
+                            </hgroup>
+                        </a>
+                    </article>
+                </div>
+                            <div class="card-item">
+                    <article class="card">
+                        <a href="/bangkok/bangkok-world-capital-gridlock" target="_blank" class="card-link">
+                            <picture class="card-picture">
+                                <source srcset="https://stories.trvl.com/cache/img/c-181-121/wp-content/uploads/2012/10/035-c8fbjt-e1471511809333.jpg 1x, https://stories.trvl.com/cache/img/c-363-243/wp-content/uploads/2012/10/035-c8fbjt-e1471511809333.jpg 2x" media="(max-width: 414px)">
+                                <source srcset="https://stories.trvl.com/cache/img/c-344-229/wp-content/uploads/2012/10/035-c8fbjt-e1471511809333.jpg 1x, https://stories.trvl.com/cache/img/c-688-459/wp-content/uploads/2012/10/035-c8fbjt-e1471511809333.jpg 2x" media="(max-width: 739px)">
+                                <source srcset="https://stories.trvl.com/cache/img/c-358-238/wp-content/uploads/2012/10/035-c8fbjt-e1471511809333.jpg 1x, https://stories.trvl.com/cache/img/c-716-476/wp-content/uploads/2012/10/035-c8fbjt-e1471511809333.jpg 2x">
+                                <img src="https://stories.trvl.com/cache/img/c-358-238/wp-content/uploads/2012/10/035-c8fbjt-e1471511809333.jpg" alt="Bangkok, the world capital of gridlock">
+                            </picture>
+                            <hgroup class="card-content">
+                                <h1 class="card-title">Bangkok, the world capital of gridlock</h1>
+                                <h2 class="card-subtitle">Bangkok – Fact Check</h2>
+                            </hgroup>
+                        </a>
+                    </article>
+                </div>
+                            <div class="card-item">
+                    <article class="card">
+                        <a href="/bangkok/can-you-stay-silent-for-ten-days" target="_blank" class="card-link">
+                            <picture class="card-picture">
+                                <source srcset="https://stories.trvl.com/cache/img/c-181-121/wp-content/uploads/2016/03/AM4P1K.jpg 1x, https://stories.trvl.com/cache/img/c-363-243/wp-content/uploads/2016/03/AM4P1K.jpg 2x" media="(max-width: 414px)">
+                                <source srcset="https://stories.trvl.com/cache/img/c-344-229/wp-content/uploads/2016/03/AM4P1K.jpg 1x, https://stories.trvl.com/cache/img/c-688-459/wp-content/uploads/2016/03/AM4P1K.jpg 2x" media="(max-width: 739px)">
+                                <source srcset="https://stories.trvl.com/cache/img/c-358-238/wp-content/uploads/2016/03/AM4P1K.jpg 1x, https://stories.trvl.com/cache/img/c-716-476/wp-content/uploads/2016/03/AM4P1K.jpg 2x">
+                                <img src="https://stories.trvl.com/cache/img/c-358-238/wp-content/uploads/2016/03/AM4P1K.jpg" alt="Can you stay silent for ten days?">
+                            </picture>
+                            <hgroup class="card-content">
+                                <h1 class="card-title">Can you stay silent for ten days?</h1>
+                                <h2 class="card-subtitle">Bangkok – Been There</h2>
+                            </hgroup>
+                        </a>
+                    </article>
+                </div>
+                            <div class="card-item">
+                    <article class="card">
+                        <a href="/bangkok/spirits-rule" target="_blank" class="card-link">
+                            <picture class="card-picture">
+                                <source srcset="https://stories.trvl.com/cache/img/c-181-121/wp-content/uploads/2012/10/003-jdw05005.jpg 1x, https://stories.trvl.com/cache/img/c-363-243/wp-content/uploads/2012/10/003-jdw05005.jpg 2x" media="(max-width: 414px)">
+                                <source srcset="https://stories.trvl.com/cache/img/c-344-229/wp-content/uploads/2012/10/003-jdw05005.jpg 1x, https://stories.trvl.com/cache/img/c-688-459/wp-content/uploads/2012/10/003-jdw05005.jpg 2x" media="(max-width: 739px)">
+                                <source srcset="https://stories.trvl.com/cache/img/c-358-238/wp-content/uploads/2012/10/003-jdw05005.jpg 1x, https://stories.trvl.com/cache/img/c-716-476/wp-content/uploads/2012/10/003-jdw05005.jpg 2x">
+                                <img src="https://stories.trvl.com/cache/img/c-358-238/wp-content/uploads/2012/10/003-jdw05005.jpg" alt="In Bangkok, the spirits rule">
+                            </picture>
+                            <hgroup class="card-content">
+                                <h1 class="card-title">In Bangkok, the spirits rule</h1>
+                                <h2 class="card-subtitle">Bangkok – Been There</h2>
+                            </hgroup>
+                        </a>
+                    </article>
+                </div>
+                            <div class="card-item">
+                    <article class="card">
+                        <a href="/bangkok/where-the-true-spirit-of-bangkok-resides" target="_blank" class="card-link">
+                            <picture class="card-picture">
+                                <source srcset="https://stories.trvl.com/cache/img/c-181-121/wp-content/uploads/2012/10/065-bangkok4963s-1243-copy-e1457133309929.jpg 1x, https://stories.trvl.com/cache/img/c-363-243/wp-content/uploads/2012/10/065-bangkok4963s-1243-copy-e1457133309929.jpg 2x" media="(max-width: 414px)">
+                                <source srcset="https://stories.trvl.com/cache/img/c-344-229/wp-content/uploads/2012/10/065-bangkok4963s-1243-copy-e1457133309929.jpg 1x, https://stories.trvl.com/cache/img/c-688-459/wp-content/uploads/2012/10/065-bangkok4963s-1243-copy-e1457133309929.jpg 2x" media="(max-width: 739px)">
+                                <source srcset="https://stories.trvl.com/cache/img/c-358-238/wp-content/uploads/2012/10/065-bangkok4963s-1243-copy-e1457133309929.jpg 1x, https://stories.trvl.com/cache/img/c-716-476/wp-content/uploads/2012/10/065-bangkok4963s-1243-copy-e1457133309929.jpg 2x">
+                                <img src="https://stories.trvl.com/cache/img/c-358-238/wp-content/uploads/2012/10/065-bangkok4963s-1243-copy-e1457133309929.jpg" alt="This is where the true spirit of Bangkok resides">
+                            </picture>
+                            <hgroup class="card-content">
+                                <h1 class="card-title">This is where the true spirit of Bangkok resides</h1>
+                                <h2 class="card-subtitle">Bangkok – Been There</h2>
+                            </hgroup>
+                        </a>
+                    </article>
+                </div>
+                            <div class="card-item">
+                    <article class="card">
+                        <a href="/bangkok/bangkok" target="_blank" class="card-link">
+                            <picture class="card-picture">
+                                <source srcset="https://stories.trvl.com/cache/img/c-181-121/wp-content/uploads/2012/10/001-mark-fisher-5715516103-38ff183465-o.jpg 1x, https://stories.trvl.com/cache/img/c-363-243/wp-content/uploads/2012/10/001-mark-fisher-5715516103-38ff183465-o.jpg 2x" media="(max-width: 414px)">
+                                <source srcset="https://stories.trvl.com/cache/img/c-344-229/wp-content/uploads/2012/10/001-mark-fisher-5715516103-38ff183465-o.jpg 1x, https://stories.trvl.com/cache/img/c-688-459/wp-content/uploads/2012/10/001-mark-fisher-5715516103-38ff183465-o.jpg 2x" media="(max-width: 739px)">
+                                <source srcset="https://stories.trvl.com/cache/img/c-358-238/wp-content/uploads/2012/10/001-mark-fisher-5715516103-38ff183465-o.jpg 1x, https://stories.trvl.com/cache/img/c-716-476/wp-content/uploads/2012/10/001-mark-fisher-5715516103-38ff183465-o.jpg 2x">
+                                <img src="https://stories.trvl.com/cache/img/c-358-238/wp-content/uploads/2012/10/001-mark-fisher-5715516103-38ff183465-o.jpg" alt="The spirits that have gone before">
+                            </picture>
+                            <hgroup class="card-content">
+                                <h1 class="card-title">The spirits that have gone before</h1>
+                                <h2 class="card-subtitle">Bangkok – Long Read</h2>
+                            </hgroup>
+                        </a>
+                    </article>
+                </div>
+                    </div>
+    </section>
+    
+    <section class="as-featured-in">
+    <div class="content entry">
+        <div class="as-featured-in-quotes">
+            <div class="as-featured-in-quote">
+                <a href="https://trvl.com/press">
+                    <img src="/assets/img/press/techcrunch.png" alt="TechCrunch">
+                </a>
+                <blockquote>If TRVL has its way, it’s the travel agencies’ turn to tremble</blockquote>
+            </div>
+            <div class="as-featured-in-quote">
+                <a href="https://trvl.com/press">
+                    <img src="/assets/img/press/bloomberg.png" alt="Bloomberg" class="quote-bloomberg">
+                </a>
+                <blockquote>Shaking up the online travel industry</blockquote>
+            </div>
+            <div class="as-featured-in-quote">
+                <a href="https://trvl.com/press">
+                    <img src="/assets/img/press/the-next-web.png" alt="The Next Web">
+                </a>
+                <blockquote>TRVL is the best travel platform you’re not using (yet)</blockquote>
+            </div>
+        </div>
+    </div>
+</section>
+
+    <section class="about-section show-lg">
+    <div class="flex entry content">
+        <header>
+            <h1><span class="highlight-blue">TRVL</span> is the new way to book your trips online</h1>
+        </header>
+
+        <ul class="usps-trust">
+    <li>
+        <img src="/assets/img/icons/icon-verified.png" alt="Verified community">
+        <span>Verified<br> community</span>
+    </li>
+
+    <li>
+        <img src="/assets/img/icons/icon-secure-payment.png" alt="Secure payments">
+        <span>Secure<br> payments</span>
+    </li>
+
+    <li>
+        <img src="/assets/img/icons/icon-no-fees.png" alt="No fees or hidden charges">
+        <span>No fees or<br> hidden charges</span>
+    </li>
+
+    <li>
+        <img src="/assets/img/icons/icon-traveler-first.png" alt="Together we've been everywhere">
+        <span>Power to<br> the traveler!</span>
+    </li>
+</ul>
+            </div>
+</section>
+            </main>
+
+            <div id="messages">
+                <messages-overview />
+            </div>
+
+            <div v-if="shouldShowAuthModal">
+                <auth-modal
+                    :type="type"
+                    :log-name="logName"
+                    :email="shouldShowEmailFields"
+                    @switch="switchType"
+                    @close="toggleAuthModal">
+                </auth-modal>
+            </div>
+
+            <div v-if="shouldShowInsiderPurchaseModal">
+                <insider-purchase-modal
+                    @close="handlePurchaseModalClose"
+                    :trial="isPurchasingInsiderTrial">
+                </insider-purchase-modal>
+            </div>
+
+            <upgrade-modal></upgrade-modal>
+            <upgrade-confirmation></upgrade-confirmation>
+        </div>
+
+        
+                    <footer class="footer">
+	<div class="footer-top">
+		<div class="flex">
+			<div class="content">
+				<div class="footer-col-wrapper">
+                                            <div class="footer-col footer-col-guest">
+                            <h2>Earn money on hotel <br>bookings with <span class="highlight-blue">TRVL</span></h2>
+                            <p>TRVL is an online platform allowing you to earn money on every hotel booking just like a travel agent and get access to specially discounted industry rates.</p>
+
+                            <ul class="footer-col-list list">
+                                <li class="footer-col-item">
+                                                                            <button type="button" class="footer-col-link button button-primary" data-auth-toggle data-auth-type="signup">Sign up</button>
+                                                                    </li>
+                            </ul>
+                        </div>
+                    
+					<div class="footer-col accordion">
+						<h3 class="accordion-title">TRVL</h3>
+
+                        <div class="accordion-content">
+                            <ul class="footer-col-list list">
+                                <li class="footer-col-item"><a href="https://trvl.com/our-story" class="footer-col-link">Our story</a></li>
+                                <li class="footer-col-item"><a href="https://trvl.com/press" class="footer-col-link">Press</a></li>
+                                <li class="footer-col-item"><a href="https://trvl.com/support" class="footer-col-link">Support</a></li>
+                            </ul>
+                            <ul class="footer-col-list list footer-col-list-bottom">
+                                
+                                <li class="footer-col-item"><a href="https://trvl.com/faq" class="footer-col-link">FAQ</a></li>
+                                <li class="footer-col-item"><a href="https://trvl.com/stories" class="footer-col-link">Stories</a></li>
+                            </ul>
+                        </div>
+					</div>
+
+					<div class="footer-col accordion">
+						<h3 class="accordion-title">Destinations</h3>
+
+                        <div class="accordion-content">
+                            <ul class="footer-col-list list">
+                                                                                                        <li class="footer-col-item">
+                                        <a href="https://trvl.com/africa" class="footer-col-link">Africa</a>
+                                    </li>
+                                                                                                        <li class="footer-col-item">
+                                        <a href="https://trvl.com/asia" class="footer-col-link">Asia</a>
+                                    </li>
+                                                                                                        <li class="footer-col-item">
+                                        <a href="https://trvl.com/australia-pacific" class="footer-col-link">Australia &amp; Pacific</a>
+                                    </li>
+                                                                                                        <li class="footer-col-item">
+                                        <a href="https://trvl.com/caribbean" class="footer-col-link">The Caribbean</a>
+                                    </li>
+                                                                                                        <li class="footer-col-item">
+                                        <a href="https://trvl.com/central-america" class="footer-col-link">Central America</a>
+                                    </li>
+                                                                                                            </ul>
+                                        <ul class="footer-col-list list footer-col-list-bottom">
+                                                                        <li class="footer-col-item">
+                                        <a href="https://trvl.com/europe" class="footer-col-link">Europe</a>
+                                    </li>
+                                                                                                        <li class="footer-col-item">
+                                        <a href="https://trvl.com/middle-east" class="footer-col-link">The Middle East</a>
+                                    </li>
+                                                                                                        <li class="footer-col-item">
+                                        <a href="https://trvl.com/north-america" class="footer-col-link">North America</a>
+                                    </li>
+                                                                                                        <li class="footer-col-item">
+                                        <a href="https://trvl.com/south-america" class="footer-col-link">South America</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+					</div>
+
+					<div class="footer-col">
+						                            <h3 class="currency-title">Currency</h3>
+                            <form action="https://trvl.com/set-currency" method="POST">
+                                <input type="hidden" name="_token" value="AcHICRM0aUFzsuGFVR8k4CKK1dejpWsmzjE4upMw">
+                                <div class="field-row">
+                                    <div class="field-group">
+                                        <select name="currency" class="custom-select" onchange="this.form.submit()">
+                                                                                            <option  value="USD" data-formatted-value="USD">&#36; USD</option>
+                                                                                            <option  value="EUR" data-formatted-value="EUR">&euro; EUR</option>
+                                                                                            <option  value="GBP" data-formatted-value="GBP">&pound; GBP</option>
+                                                                                            <option  value="AUD" data-formatted-value="AUD">&#36; AUD</option>
+                                                                                            <option selected value="CAD" data-formatted-value="CAD">&#36; CAD</option>
+                                                                                            <option  value="NZD" data-formatted-value="NZD">&#36; NZD</option>
+                                                                                            <option  value="JPY" data-formatted-value="JPY">&yen; JPY</option>
+                                                                                            <option  value="HKD" data-formatted-value="HKD">&#36; HKD</option>
+                                                                                            <option  value="CNY" data-formatted-value="CNY">&#20803; CNY</option>
+                                                                                            <option  value="INR" data-formatted-value="INR">&#8377; INR</option>
+                                                                                            <option  value="ZAR" data-formatted-value="ZAR">R ZAR</option>
+                                                                                            <option  value="TRY" data-formatted-value="TRY">&#8378; TRY</option>
+                                                                                            <option  value="SGD" data-formatted-value="SGD">S&#36; SGD</option>
+                                                                                    </select>
+                                    </div>
+                                </div>
+                            </form>
+											</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+    <div class="footer-bottom">
+		<div class="flex">
+			<div class="content row">
+				<div class="footer-bottom-left row">
+					<ul class="footer-list list">
+						<li class="footer-item">&copy; 2018 TRVL</li>
+						<li class="footer-item"><a href="https://trvl.com/terms-and-conditions" class="footer-link">T&amp;Cs</a></li>
+						<li class="footer-item"><a href="https://trvl.com/privacy" class="footer-link">Privacy</a></li>
+					</ul>
+				</div>
+
+                <div class="footer-brand">
+                    <a class="logo-link" href="/">
+    <span class="accessible">TRVL</span>
+    <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+         width="37px" height="32px" viewBox="0 0 37 32" enable-background="new 0 0 37 32" xml:space="preserve">
+         <title>TRVL</title>
+        <g id="stylekit">
+            <g id="icons" transform="translate(-16.000000, -225.000000)">
+                <path id="logo-trvl" fill="#004084" d="M29.017,235.309c0.004-0.35,0.792-0.741,1.355-0.741c0.6,0,0.46,0.452,0.47,0.775
+                    c0.023,0.788,0.009,1.578,0.008,2.366c-0.002,1.462-0.234,1.743-1.84,2.11C29.01,238.275,29,236.792,29.017,235.309
+                     M25.828,248.769c0,0.217,0.026,0.434,0.046,0.745c0.926-0.334,1.763-0.656,2.614-0.934c0.384-0.125,0.529-0.323,0.521-0.73
+                    c-0.021-1.244-0.007-2.49-0.007-3.734c0-1.408,0-1.408,1.353-1.83c0.021-0.007,0.042-0.018,0.063-0.023
+                    c0.606-0.177,0.804-0.055,0.818,0.572c0.021,0.973-0.006,1.947,0.017,2.92c0.009,0.403,0.05,0.818,0.167,1.201
+                    c0.049,0.158,0.379,0.383,0.505,0.342c0.938-0.301,1.857-0.66,2.691-0.969c-0.074-0.763-0.173-1.429-0.194-2.098
+                    c-0.031-0.972,0.004-1.946-0.006-2.919c-0.01-0.903-0.429-1.414-1.315-1.639c-0.174-0.044-0.351-0.083-0.583-0.137
+                    c1.458-1.48,1.574-1.769,1.574-3.841c0-0.792,0.002-1.584,0-2.377c-0.007-2.201-0.804-2.77-2.895-2.034
+                    c-1.576,0.554-3.131,1.171-4.715,1.701c-0.538,0.18-0.669,0.45-0.667,0.979C25.833,238.897,25.826,243.833,25.828,248.769z
+                     M52.988,241.491c-0.338,0.107-0.574,0.173-0.805,0.257c-5.955,2.189-11.91,4.381-17.864,6.57
+                    c-5.001,1.84-10.004,3.676-15.001,5.526c-0.25,0.093-0.633,0.296-0.646,0.471c-0.067,0.864-0.03,1.737-0.03,2.685
+                    c0.348-0.115,0.58-0.186,0.808-0.27c7.842-2.882,15.684-5.766,23.523-8.648c3.137-1.153,6.276-2.299,9.405-3.474
+                    c0.241-0.091,0.564-0.364,0.583-0.575C53.029,243.227,52.988,242.41,52.988,241.491z M37.375,240.369
+                    c0.322,1.565,0.723,3.115,1.115,4.793c0.742-0.271,1.318-0.537,1.924-0.689c0.742-0.186,1.041-0.632,1.174-1.358
+                    c0.883-4.843,1.801-9.68,2.703-14.521c0.117-0.626,0.205-1.257,0.326-2.002c-1.043,0.376-1.939,0.678-2.812,1.035
+                    c-0.178,0.072-0.357,0.345-0.385,0.545c-0.342,2.553-0.65,5.111-0.982,7.666c-0.123,0.938-0.289,1.87-0.436,2.805
+                    c-0.067-0.002-0.136-0.005-0.204-0.007c-0.456-3.277-0.913-6.554-1.378-9.895c-0.941,0.341-1.804,0.672-2.68,0.963
+                    c-0.389,0.129-0.441,0.311-0.361,0.701C36.058,233.723,36.691,237.051,37.375,240.369z M18.785,252.111
+                    c0.951-0.34,1.761-0.665,2.615-0.943c0.389-0.128,0.515-0.332,0.512-0.734c-0.018-2.193-0.003-4.387-0.003-6.58v-6.274
+                    c0.679-0.282,1.487-0.544,2.214-0.842c0.181-0.075,0.435-0.261,0.442-0.406c0.042-0.847,0.018-1.696,0.018-2.533
+                    c-0.131-0.016-0.182-0.038-0.219-0.025c-2.672,0.97-5.344,1.939-8.009,2.927c-0.149,0.055-0.333,0.267-0.339,0.412
+                    c-0.033,0.83-0.002,1.661-0.002,2.58c0.946-0.327,1.821-0.624,2.772-0.954V252.111z M46.082,241.635v0.855
+                    c2.309-0.841,4.43-1.621,6.563-2.417c0.139-0.052,0.321-0.228,0.325-0.352c0.029-0.824,0.003-1.65,0.003-2.565
+                    c-1.283,0.463-2.411,0.887-3.769,1.356V225c-0.814,0.323-1.658,0.641-2.456,0.874c-0.562,0.164-0.69,0.472-0.688,1.028
+                    C46.082,231.812,46.082,236.724,46.082,241.635z"/>
+            </g>
+        </g>
+    </svg>
+</a>
+                    <h3 class="hide-md">Power to the traveler!</h3>
+                </div>
+
+				<div class="footer-bottom-right">
+					<ul class="footer-list footer-social-list list">
+						<li class="footer-item"><a href="https://www.facebook.com/trvlzine/" target="_blank" class="footer-link"><span class="trvl-icon-facebook-1"></span></a></li>
+						<li class="footer-item"><a href="https://www.instagram.com/trvl/" target="_blank" class="footer-link"><span class="trvl-icon-instagram"></span></a></li>
+						<li class="footer-item"><a href="https://twitter.com/trvl" target="_blank" class="footer-link"><span class="trvl-icon-twitter"></span></a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+        
+        <div class="browser-support">
+    <div class="takeover-message">
+        <div class="takeover-message-content">
+            <img src="https://trvl.com/assets/img/icons/apple-touch-icon.png" alt="TRVL">
+            <p>Please update your browser</p>
+        </div>
+    </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
+<script>
+  WebFont.load({
+    google: {
+      families: ['Open+Sans:300,400,600,700']
+    }
+  });
+</script>
+
+<script src="https://js.stripe.com/v3/"></script>
+
+<script type="text/javascript" src="https://trvl.com/js-lang"></script>
+<script type="text/javascript" src="https://maps.google.com/maps/api/js?&amp;libraries=places&amp;key=AIzaSyBv5MWrod716eHlnDP76GIHBDr4ywkIbMg&amp;language=en&region=CN"></script>
+<script type="text/javascript" src="/dist/js/manifest.js?id=5a965cb97f528cc2e63e"></script>
+<script type="text/javascript" src="/dist/js/vendor.js?id=d7a73240b333fc7e50c0"></script>
+<script type="text/javascript" src="/dist/js/base.js?id=db9ba782818fa142c8ec"></script>
+<script type="text/javascript" src="/dist/js/app.js?id=27f1c68aa5295b42fbc3"></script>
+
+        <script>
+            Laravel.queryString.destination = 'Koh Samui';
+
+            ga('send', 'pageview', 'ViewDestination');
+            fbq('track', 'ViewContent', {content_name: 'ViewDestination'});
+        </script>
+    
+
+    <script id="reviews-template" type="text/-x-handlebars-template">
+        {{#each reviews}}
+        <li class="booking-review-item">
+            <div class="booking-review-item-header">
+                <span class="booking-rating-score">{{average_score}}</span>
+                <h3>
+                    {{{headline}}}
+                        <span class="booking-review-item-date">{{dateFormat date "MMMM YYYY"}}  by {{author.name}}</span>
+                </h3>
+            </div>
+            <div class="booking-review-item-arguments">
+            {{#if pros}}
+                <div class="booking-review-item-argument booking-review-item-argument-pro">
+                    <div class="booking-review-item-argument-header">
+                        <span class="booking-review-item-icon">+</span>
+                        <h4 class="booking-review-item-icon-title" title="Pros" aria-label="Pros"></h4>
+                    </div>
+                    <p>{{{pros}}}</p>
+                </div>
+            {{/if}}
+            {{#if cons}}
+                <div class="booking-review-item-argument">
+                    <div class="booking-review-item-argument-header">
+                        <span class="booking-review-item-icon">-</span>
+                        <h4 class="booking-review-item-icon-title" title="Cons" aria-label="Cons"></h4>
+                    </div>
+                    <p>{{{cons}}}</p>
+                </div>
+            {{/if}}
+            </div>
+        </li>
+        {{/each}}
+    </script>
+
+    <script id="modal-template" type="text/-x-handlebars-template" v-pre>
+        <div class="modal">
+            <div class="modal-wrap">
+                <div class="modal-inner">
+                    <button type="button" class="button button-clean modal-close">&times;</button>
+                    <div class="modal-header">
+                        <h1>{{title}}</h1>
+                    </div>
+                    <div class="modal-content">
+                        {{{content}}}
+                    </div>
+                </div>
+            </div>
+            <div class="modal-bg"></div>
+        </div>
+    </script>
+
+    <script id="room-images-template" type="text/-x-handlebars-template" v-pre>
+        <div class="modal">
+            <div class="modal-wrap">
+                <div class="modal-inner">
+                    <button type="button" class="button button-clean modal-close">&times;</button>
+                    <div class="modal-header">
+                        <h1>{{title}}</h1>
+                    </div>
+                    <div class="modal-content">
+                        <div class="room-images-slider">
+                            {{#each images}}
+                            <div class="room-images-slide">
+                                <div class="loader"></div>
+                                <img data-src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-lazy="{{url}}">
+                            </div>
+                            {{/each}}
+                        </div>
+                        <div class="room-thumbs-slider" data-draggable>
+                            <div class="room-thumbs-slider-inner">
+                                {{#each images}}
+                                <div class="room-thumbs-slide">
+                                    <img data-index="{{@index}}" src="{{url}}">
+                                </div>
+                                {{/each}}
+                            </div>
+                        </div>
+                        <div class="room-modal-details">
+                            {{{content}}}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-bg"></div>
+        </div>
+    </script>
+
+        
+                    <script type="text/javascript">
+                /* <![CDATA[ */
+                var google_conversion_id = 940508960;
+                var google_custom_params = window.google_tag_params;
+                var google_remarketing_only = true;
+                /* ]]> */
+            </script>
+
+            <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+
+            <noscript>
+                <div style="display:inline;">
+                    <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/940508960/?guid=ON&amp;script=0"/>
+                </div>
+            </noscript>
+        	</body>
+</html>
